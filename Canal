@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LauncherAvto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+        a {
+            color: #1E90FF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>LauncherAvto - Обновления и Программы</h1>
+</header>
+
+<section>
+    <h2>⚡️Обновлены Файлы 16.09.2024⚡️</h2>
+    <ul>
+        <li>Для открытия канала в браузере Автомагнитолы: <a href="https://web.telegram.org/z/#-1899068059">Скачать файлы</a></li>
+        <li>💾Google Диск📀: <a href="https://drive.google.com/drive/folders/1M1WbGAlSk3ddRJy_pSBz9Os_My36G9_O?usp=sharing">Перейти на Google Диск</a></li>
+        <li>❗️Новый раздел TV L.A: <a href="https://t.me/TVruLA">Ссылка на раздел</a></li>
+        <li>💬 Чат для общения и предложений: <a href="https://t.me/ChatLauncherAvto">Перейти в чат</a></li>
+    </ul>
+</section>
+
+<section>
+    <h2>Список программ</h2>
+    <ul>
+        <li>🔴 AGAMA Car Launcher: <a href="https://t.me/LauncherAvto/8">Скачать</a></li>
+        <li>🔴 VIVID.ver.6.3: <a href="https://t.me/LauncherAvto/13">Скачать</a></li>
+        <li>🔤 Car Launcher Pro: <a href="https://t.me/LauncherAvto/15">Скачать</a></li>
+        <li>☄️ Яндекс Навигатор Упр.: <a href="https://t.me/LauncherAvto/19">Скачать</a></li>
+        <!-- Продолжайте список аналогично -->
+    </ul>
+</section>
+
+<section>
+    <h2>Поддержите нас</h2>
+    <ul>
+        <li>💲Поддержите наш Telegram: <a href="https://t.me/ChatLauncherAvto/5579/5580">Ссылка на поддержку</a></li>
+    </ul>
+</section>
+
+<footer>
+    <p>☺️Спасибо что Вы с нами☺️</p>
+</footer>
+
+</body>
+</html>
